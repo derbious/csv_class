@@ -1,0 +1,40 @@
+# types
+# "string"
+# int
+# float
+# 
+# lists
+# dicts
+#
+# objects
+# 
+# date
+# timestamp
+# password*
+
+
+
+An example: wyverns tale receipt. => a file that can be saved
+(data modeling) DBA. Programmers. Data scientists.
+
+read from stdin. written(printed) to stdout
+File format: how you write out the data. so you can read it back later
+
+.csv
+table of data (row-based) => text file.
+* human readable
+* human writable
+* minimal metadata
+* no $$$$$
+* everything usually reads/writes it with ease.
+
+#name,money_in_pocket,last_movie_watched,birth_year
+steven,13.87,"Judge Dredd",1984
+ryan,20.00,"Get Out",1987
+emmy,,"7 days",1983
+
+column == data type
+row == list
+
+
+
